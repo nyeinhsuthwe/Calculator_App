@@ -1,0 +1,36 @@
+.btn-group{
+    display: flex;
+}
+
+.btn{
+    width: 100px;
+    height: 35px;
+    border: none;
+    transition: 0.5s;
+}
+
+.btncal{
+    width: 200px;
+    border: none;
+    height: 35px;
+    
+}
+
+.btnlong{
+    width: 200px;
+    border: none;
+    height: 35px;
+    background-color: orange;
+}
+
+.btn:hover{
+    background-color: #e7e7e7;
+}
+
+.btncal:hover{
+    background-color: #e7e7e7;
+}
+
+.btnlong:hover{
+    background-color: rgb(152, 148, 140);
+}
